@@ -1,1 +1,1 @@
-{"title":"","message":"در حال حاضر نسخه جدیدی از مود Sufi VPN در کانال تلگرام قرارداده شده است حتما دانلود و تست کنید ","dismissable":false,"dismissTxt":"رد","okTxt":"بروبه دانلود ","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+.
