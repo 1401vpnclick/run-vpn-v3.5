@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"هن اکنون فیلتر شکنی به نام ostrich VPN در با قابلیت مود در دسترس است برای اتصال بهتر دانلود کنید ❤️⚡️","dismissable":false,"dismissTxt":"رد","okTxt":"دانلود از تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+{"title":"کاربر گرامی ","message":"هم اکنون فیلتر شکنی به نام Ostrich VPN در با قابلیت مود در دسترس است برای اتصال بهتر دانلود کنید ❤️⚡️","dismissable":false,"dismissTxt":"رد","okTxt":"دانلود از تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
